@@ -1,5 +1,8 @@
 # Ren'Py Rhythm: A Rhythm Game Engine for Ren'Py
 
+> [!CAUTION]
+> This is a fork of the original repo including changes/updates for: Audacity Mapping Workflow
+
 **Play it now on [itch.io](https://r3dhummingbird.itch.io/renpy-rhythm-game) or watch a demo on [YouTube](https://youtu.be/7fMig9BmDzY)**
 
 ## About
